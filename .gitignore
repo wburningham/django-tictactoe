@@ -14,3 +14,6 @@ pip-log.txt
 .tox
 dev.db
 local_settings.py
+lib/
+include/
+.Python
